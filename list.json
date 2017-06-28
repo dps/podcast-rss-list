@@ -1,5 +1,6 @@
 {
   "feeds" : [
-  {"name": "Friday Night Comedy - BBC", "rssfeed": "http://podcasts.files.bbci.co.uk/p02pc9pj.rss"}
+  {"name": "Friday Night Comedy - BBC", "rssfeed": "http://podcasts.files.bbci.co.uk/p02pc9pj.rss"},
+  {"name": "Startup - Gimlet", "rssfeed": "http://feeds.gimletmedia.com/hearstartup"}
   ]
 }
