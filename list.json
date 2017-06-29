@@ -1,6 +1,31 @@
 {
   "feeds" : [
-  {"name": "Friday Night Comedy - BBC", "rssfeed": "http://podcasts.files.bbci.co.uk/p02pc9pj.rss"},
-  {"name": "Startup - Gimlet", "rssfeed": "http://feeds.gimletmedia.com/hearstartup"}
+        {"name": "Friday Night Comedy - BBC", "rssfeed": "http://podcasts.files.bbci.co.uk/p02pc9pj.rss"},
+        {"name": "Startup - Gimlet", "rssfeed": "http://feeds.gimletmedia.com/hearstartup"},
+        {"name":"Ear Hustle - Ear Hustle & Radiotopia", "rssfeed":"http://feeds.earhustlesq.com/earhustlesq"},
+        {"name":"30 For 30 Podcasts - ESPN, ESPN Films, 30for30", "rssfeed":"http://www.espn.com/espnradio/podcast/feeds/itunes/podCast?id=19472136"},
+        {"name":"LeVar Burton Reads - LeVar Burton and Stitcher", "rssfeed":"https://rss.art19.com/levar-burton-reads"},
+        {"name":"Revisionist History - Malcolm Gladwell / Panoply", "rssfeed":"http://feeds.feedburner.com/RevisionistHistory"},
+        {"name":"Invisibilia - NPR", "rssfeed":"https://www.npr.org/rss/podcast.php?id=510307"},
+        {"name":"S-Town - Serial & This American Life", "rssfeed":"http://feeds.stownpodcast.org/stownpodcast"},
+        {"name":"It's Been a Minute with Sam Sanders - NPR", "rssfeed":"https://www.npr.org/rss/podcast.php?id=510317"},
+        {"name":"TED Radio Hour - NPR", "rssfeed":"https://www.npr.org/rss/podcast.php?id=510298"},
+        {"name":"Stuff You Should Know - HowStuffWorks", "rssfeed":"http://www.howstuffworks.com/podcasts/stuff-you-should-know.rss"},
+        {"name":"This American Life - This American Life", "rssfeed":"http://feed.thisamericanlife.org/talpodcast"},
+        {"name":"The Daily - The New York Times", "rssfeed":"http://feeds.podtrac.com/zKq6WZZLTlbM"},
+        {"name":"The Joe Rogan Experience - Joe Rogan", "rssfeed":"http://joeroganexp.joerogan.libsynpro.com/rss"},
+        {"name":"Up First - NPR", "rssfeed":"https://www.npr.org/rss/podcast.php?id=510318"},
+        {"name":"Serial - This American Life", "rssfeed":"http://feeds.serialpodcast.org/serialpodcast"},
+        {"name":"Amazon Secrets With Matt Behdjou - Matt Behdjou", "rssfeed":"http://amazonsecrets.libsyn.com/rss"},
+        {"name":"Sworn - Up and Vanished & Tenderfoot", "rssfeed":"https://audioboom.com/channels/4906774.rss"},
+        {"name":"Up and Vanished - Tenderfoot", "rssfeed":"https://audioboom.com/channels/4811953.rss"},
+        {"name":"Masters of Scale with Reid Hoffman - WaitWhat", "rssfeed":"https://rss.art19.com/masters-of-scale"},
+        {"name":"Kickass News - Mathis Entertainment, Inc.", "rssfeed":"http://kickasspoliticspreview1.libsyn.com/kickasspolitics2"},
+        {"name":"Cold Case Files: The Podcast - PodcastOne", "rssfeed":"http://www.podcastone.com/podcast?categoryID2=1119"},
+        {"name":"Pod Save America - Crooked Media", "rssfeed":"http://feeds.feedburner.com/pod-save-america"},
+        {"name":"Serial Killers - Parcast Network", "rssfeed":"http://feeds.soundcloud.com/users/soundcloud:users:287778748/sounds.rss"},
+        {"name":"How I Built This - NPR", "rssfeed":"https://www.npr.org/rss/podcast.php?id=510313"},
+        {"name":"Stuff You Missed in History Class - HowStuffWorks", "rssfeed":"http://www.howstuffworks.com/podcasts/stuff-you-missed-in-history-class.rss"},
+        {"name":"Planet Money - NPR", "rssfeed":"https://www.npr.org/rss/podcast.php?id=510289"}
   ]
 }
