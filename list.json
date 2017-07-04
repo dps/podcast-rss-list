@@ -1,31 +1,31 @@
+
 {
-  "feeds" : [
-        {"name": "Friday Night Comedy - BBC", "rssfeed": "http://podcasts.files.bbci.co.uk/p02pc9pj.rss"},
-        {"name": "Startup - Gimlet", "rssfeed": "http://feeds.gimletmedia.com/hearstartup"},
-        {"name":"Ear Hustle - Ear Hustle & Radiotopia", "rssfeed":"http://feeds.earhustlesq.com/earhustlesq"},
-        {"name":"30 For 30 Podcasts - ESPN, ESPN Films, 30for30", "rssfeed":"http://www.espn.com/espnradio/podcast/feeds/itunes/podCast?id=19472136"},
-        {"name":"LeVar Burton Reads - LeVar Burton and Stitcher", "rssfeed":"https://rss.art19.com/levar-burton-reads"},
-        {"name":"Revisionist History - Malcolm Gladwell / Panoply", "rssfeed":"http://feeds.feedburner.com/RevisionistHistory"},
-        {"name":"Invisibilia - NPR", "rssfeed":"https://www.npr.org/rss/podcast.php?id=510307"},
-        {"name":"S-Town - Serial & This American Life", "rssfeed":"http://feeds.stownpodcast.org/stownpodcast"},
-        {"name":"It's Been a Minute with Sam Sanders - NPR", "rssfeed":"https://www.npr.org/rss/podcast.php?id=510317"},
-        {"name":"TED Radio Hour - NPR", "rssfeed":"https://www.npr.org/rss/podcast.php?id=510298"},
-        {"name":"Stuff You Should Know - HowStuffWorks", "rssfeed":"http://www.howstuffworks.com/podcasts/stuff-you-should-know.rss"},
-        {"name":"This American Life - This American Life", "rssfeed":"http://feed.thisamericanlife.org/talpodcast"},
-        {"name":"The Daily - The New York Times", "rssfeed":"http://feeds.podtrac.com/zKq6WZZLTlbM"},
-        {"name":"The Joe Rogan Experience - Joe Rogan", "rssfeed":"http://joeroganexp.joerogan.libsynpro.com/rss"},
-        {"name":"Up First - NPR", "rssfeed":"https://www.npr.org/rss/podcast.php?id=510318"},
-        {"name":"Serial - This American Life", "rssfeed":"http://feeds.serialpodcast.org/serialpodcast"},
-        {"name":"Amazon Secrets With Matt Behdjou - Matt Behdjou", "rssfeed":"http://amazonsecrets.libsyn.com/rss"},
-        {"name":"Sworn - Up and Vanished & Tenderfoot", "rssfeed":"https://audioboom.com/channels/4906774.rss"},
-        {"name":"Up and Vanished - Tenderfoot", "rssfeed":"https://audioboom.com/channels/4811953.rss"},
-        {"name":"Masters of Scale with Reid Hoffman - WaitWhat", "rssfeed":"https://rss.art19.com/masters-of-scale"},
-        {"name":"Kickass News - Mathis Entertainment, Inc.", "rssfeed":"http://kickasspoliticspreview1.libsyn.com/kickasspolitics2"},
-        {"name":"Cold Case Files: The Podcast - PodcastOne", "rssfeed":"http://www.podcastone.com/podcast?categoryID2=1119"},
-        {"name":"Pod Save America - Crooked Media", "rssfeed":"http://feeds.feedburner.com/pod-save-america"},
-        {"name":"Serial Killers - Parcast Network", "rssfeed":"http://feeds.soundcloud.com/users/soundcloud:users:287778748/sounds.rss"},
-        {"name":"How I Built This - NPR", "rssfeed":"https://www.npr.org/rss/podcast.php?id=510313"},
-        {"name":"Stuff You Missed in History Class - HowStuffWorks", "rssfeed":"http://www.howstuffworks.com/podcasts/stuff-you-missed-in-history-class.rss"},
-        {"name":"Planet Money - NPR", "rssfeed":"https://www.npr.org/rss/podcast.php?id=510289"}
-  ]
+   "feeds" : [
+
+        {"name":"Revisionist History", "rssfeed":"http://feeds.feedburner.com/RevisionistHistory", "imageurl":"http://static.megaphone.fm/podcasts/1427a2f4-2674-11e6-a3d7-cf7ee2a2c03c/image/uploads_2F1482446939047-8xkz61rh3k6t5hke-1d3a74b59a8aa1c724e95f8e00fae249_2FRevisionistHistory_1400x1400.jpg", "author": "Malcolm Gladwell / Panoply"},
+        {"name":"30 For 30 Podcasts", "rssfeed":"http://www.espn.com/espnradio/podcast/feeds/itunes/podCast?id=19472136", "imageurl":"http://a.espncdn.com/i/espnradio/podcast/30_for_30_red/30for30_1400x1400.jpg", "author": "ESPN, ESPN Films, 30for30"},
+        {"name":"S-Town", "rssfeed":"http://feeds.stownpodcast.org/stownpodcast", "imageurl":"https://files.stownpodcast.org/img/s-town-itunes.jpg", "author": "Serial & This American Life"},
+        {"name":"LeVar Burton Reads", "rssfeed":"https://rss.art19.com/levar-burton-reads", "imageurl":"https://dfkfj8j276wwv.cloudfront.net/images/a2/56/22/ba/a25622ba-0071-4dc7-905f-fd8ba8c933d3/e19bd1d38fca74faca9d281a1bf9d29e9da713a57c9e60345030bab6b3a852b51bc68db007ff7d3abf61cf1f941cd4e47d48020374917551204f040abc975062.jpeg", "author": "LeVar Burton and Stitcher"},
+        {"name":"This American Life", "rssfeed":"http://feed.thisamericanlife.org/talpodcast", "imageurl":"http://www.thisamericanlife.org/sites/all/themes/thislife/images/logo-square-1400.jpg", "author": "This American Life"},
+        {"name":"Invisibilia", "rssfeed":"https://www.npr.org/rss/podcast.php?id=510307", "imageurl":"https://media.npr.org/assets/img/2016/05/19/invisibiliapodcast_icon_hotpink-01_sq-2359778531d9733109e3674a5cecf5a711aa511f.jpg?s=200", "author": "NPR"},
+        {"name":"Stuff You Should Know", "rssfeed":"http://www.howstuffworks.com/podcasts/stuff-you-should-know.rss", "imageurl":"https://podcasts.howstuffworks.com/hsw/podcasts/sysk/sysk-audio-1600.jpg", "author": "HowStuffWorks"},
+        {"name":"TED Radio Hour", "rssfeed":"https://www.npr.org/rss/podcast.php?id=510298", "imageurl":"https://media.npr.org/assets/img/2015/03/18/ted_sq-3426270a541795b78233a698dd7965d407545cf3.jpg?s=200", "author": "NPR"},
+        {"name":"House of Carbs", "rssfeed":"http://feeds.feedburner.com/houseofcarbs", "imageurl":"https://dfkfj8j276wwv.cloudfront.net/images/ca/77/aa/92/ca77aa92-fdfc-40fc-82e8-8f8e46e3cee6/79cc0240193843d684229b385895981ec8a8573147d8baab775cc1c3cf256023decde63b99b250eab097518e51c0a0bb8b891fbd18e61d1db2638621c22e03ae.jpeg", "author": "The Ringer"},
+        {"name":"STAGES", "rssfeed":"http://stages.libsyn.com/rss", "imageurl":"http://static.libsyn.com/p/assets/e/e/a/1/eea19879782049af/Stages_with_Box_-_Big.jpg", "author": "Lance Armstrong"},
+        {"name":"It's Been a Minute with Sam Sanders", "rssfeed":"https://www.npr.org/rss/podcast.php?id=510317", "imageurl":"https://media.npr.org/assets/img/2017/06/19/itsbeenaminute_podcasttile_yellow_sq-ba42d2b716cc8f12f7ee7c3c30b33ce305205bb9.png?s=200", "author": "NPR"},
+        {"name":"Live from the Poundstone Institute", "rssfeed":"https://www.npr.org/rss/podcast.php?id=510322", "imageurl":"https://media.npr.org/assets/img/2017/06/01/3000livefromthepoundstoneinstitute_podcasttilefinal_sq-25a25572093dc70af5a31842aad0655673056135.png?s=200", "author": "NPR"},
+        {"name":"Serial", "rssfeed":"http://feeds.serialpodcast.org/serialpodcast", "imageurl":"https://serialpodcast.org/sites/all/modules/custom/serial/img/serial-itunes-logo.png", "author": "This American Life"},
+        {"name":"Amazon Secrets With Matt Behdjou", "rssfeed":"http://amazonsecrets.libsyn.com/rss", "imageurl":"http://static.libsyn.com/p/assets/d/9/7/1/d971736591dbe7a5/PassIncomeIdeas_06.jpg", "author": "Matt Behdjou"},
+        {"name":"The Joe Rogan Experience", "rssfeed":"http://joeroganexp.joerogan.libsynpro.com/rss", "imageurl":"http://static.libsyn.com/p/assets/7/1/f/3/71f3014e14ef2722/JREiTunesImage2.jpg", "author": "Joe Rogan"},
+        {"name":"Stuff You Missed in History Class", "rssfeed":"http://www.howstuffworks.com/podcasts/stuff-you-missed-in-history-class.rss", "imageurl":"https://static.howstuffworks.com/gif/symhc-new-logo-1600x1600.png", "author": "HowStuffWorks"},
+        {"name":"Ear Hustle", "rssfeed":"http://feeds.earhustlesq.com/earhustlesq", "imageurl":"https://f.prxu.org/59/images/d452ebe9-7814-4f3c-bd2e-be28c2468002/EH_Logo_zag_1500x1500.jpg", "author": "Ear Hustle & Radiotopia"},
+        {"name":"Kickass News", "rssfeed":"http://kickasspoliticspreview1.libsyn.com/kickasspolitics2", "imageurl":"http://static.libsyn.com/p/assets/3/9/2/1/3921b7c09a3aac5b/Kickass_News_blue.jpg", "author": "Mathis Entertainment, Inc."},
+        {"name":"Serial Killers", "rssfeed":"http://feeds.soundcloud.com/users/soundcloud:users:287778748/sounds.rss", "imageurl":"http://i1.sndcdn.com/avatars-000294985794-z9f4ls-original.jpg", "author": "Parcast Network"},
+        {"name":"Pod Save America", "rssfeed":"http://feeds.feedburner.com/pod-save-america", "imageurl":"https://dfkfj8j276wwv.cloudfront.net/images/0d/28/33/81/0d283381-724c-4caa-abad-b470e950d72d/b81bc65ae9ed5e2c095d68d40fecf3735467132e22415ad4861dd89a2f6527a47f45269a9091f8e98b499f5abc6c0c5423daa6690324ee9a0b9572868319deb7.jpeg", "author": "Crooked Media"},
+        {"name":"Freakonomics Radio", "rssfeed":"http://feeds.feedburner.com/freakonomicsradio", "imageurl":"https://media2.wnyc.org/i/1400/1400/l/80/1/Freakonomics_WNYCStudios_1400_rsAKwzl.png", "author": "Stephen J. Dubner and WNYC Studios"},
+        {"name":"How I Built This", "rssfeed":"https://www.npr.org/rss/podcast.php?id=510313", "imageurl":"https://media.npr.org/assets/img/2016/08/31/hibt_podcast_tile_sq-8d9498b292dc7a759bf4b7fc776dfe0e4c09da68.png?s=200", "author": "NPR"},
+        {"name":"Fresh Air", "rssfeed":"https://www.npr.org/rss/podcast.php?id=381444908", "imageurl":"https://media.npr.org/images/podcasts/primary/icon_381444908-6388a4123207c734918f15c97de6d49ae634f820.jpg?s=200", "author": "NPR"},
+        {"name":"Hidden Brain", "rssfeed":"https://www.npr.org/rss/podcast.php?id=510308", "imageurl":"https://media.npr.org/assets/img/2017/01/12/hiddenbrain_sq-c52ddc28021ba306c99f2a94f06e0f649b0b62cd.jpg?s=200", "author": "NPR"}
+   ]
 }
+
