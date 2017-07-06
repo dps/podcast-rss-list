@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ppg="http://bbc.co.uk/2009/01/ppgRss" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+    <title>Shortcast from dps</title>
+    <link>https://raw.githubusercontent.com/dps/podcast-rss-list/master/shortcast/</link>
+    <description>Quite possibly the shortest podcast in the world.</description>
+    <itunes:summary>Quite possibly the shortest podcast in the world.</itunes:summary>
+    <itunes:author>dps</itunes:author>
+    <language>en</language>
+    <image>
+        <url>https://raw.githubusercontent.com/dps/podcast-rss-list/master/shortcast/cover.jpg</url>
+        <title>Shortcast from dps</title>
+        <link>https://raw.githubusercontent.com/dps/podcast-rss-list/master/shortcast/</link>
+    </image>
+    <itunes:image href="https://raw.githubusercontent.com/dps/podcast-rss-list/master/shortcast/cover.jpg"/>
+    <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+    <itunes:category text="Comedy"/>
+    <itunes:explicit>no</itunes:explicit>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
+    <atom:link href="https://raw.githubusercontent.com/dps/podcast-rss-list/master/shortcast/shortcast.rss" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Cheesemakers</title>
+        <description>A satirical skewering of peacemakers.</description>
+        <itunes:subtitle>A satirical skewering of peacemakers.</itunes:subtitle>
+        <itunes:summary>A satirical skewering of peacemakers.</itunes:summary>
+        <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+        <itunes:duration>14</itunes:duration>
+        <enclosure url="https://raw.githubusercontent.com/dps/podcast-rss-list/master/shortcast/cheesemakers.mp3" length="114912" type="audio/mpeg"/>
+        <link>https://raw.githubusercontent.com/dps/podcast-rss-list/master/shortcast/</link>
+        <itunes:explicit>clean</itunes:explicit>
+        <media:content url="https://raw.githubusercontent.com/dps/podcast-rss-list/master/shortcast/cheesemakers.mp3" fileSize="114912" type="audio/mpeg" medium="audio" expression="full" duration="14"/>
+        <itunes:author>dps</itunes:author>
+    </item>
+    <item>
+        <title>What have the Romans done?</title>
+        <description>A satirical skewering of Brexit.</description>
+        <itunes:subtitle>A satirical skewering of Brexit.</itunes:subtitle>
+        <itunes:summary>A satirical skewering of Brexit.</itunes:summary>
+        <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+        <itunes:duration>82</itunes:duration>
+        <enclosure url="https://raw.githubusercontent.com/dps/podcast-rss-list/master/shortcast/done.mp3" length="659232" type="audio/mpeg"/>
+        <link>https://raw.githubusercontent.com/dps/podcast-rss-list/master/shortcast/</link>
+        <itunes:explicit>clean</itunes:explicit>
+        <media:content url="https://raw.githubusercontent.com/dps/podcast-rss-list/master/shortcast/done.mp3" fileSize="659232" type="audio/mpeg" medium="audio" expression="full" duration="82"/>
+        <itunes:author>dps</itunes:author>
+    </item>
+</channel>
+</rss>
