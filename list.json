@@ -1,7 +1,7 @@
 
 {
    "feeds" : [
-
+        {"name":"Friday Night Comedy", "rssfeed":"http://podcasts.files.bbci.co.uk/p02pc9pj.rss", "imageurl":"http://ichef.bbci.co.uk/images/ic/3000x3000/p03fy1mh.jpg", "author":"BBC"},
         {"name":"Revisionist History", "rssfeed":"http://feeds.feedburner.com/RevisionistHistory", "imageurl":"http://static.megaphone.fm/podcasts/1427a2f4-2674-11e6-a3d7-cf7ee2a2c03c/image/uploads_2F1482446939047-8xkz61rh3k6t5hke-1d3a74b59a8aa1c724e95f8e00fae249_2FRevisionistHistory_1400x1400.jpg", "author": "Malcolm Gladwell / Panoply"},
         {"name":"30 For 30 Podcasts", "rssfeed":"http://www.espn.com/espnradio/podcast/feeds/itunes/podCast?id=19472136", "imageurl":"http://a.espncdn.com/i/espnradio/podcast/30_for_30_red/30for30_1400x1400.jpg", "author": "ESPN, ESPN Films, 30for30"},
         {"name":"S-Town", "rssfeed":"http://feeds.stownpodcast.org/stownpodcast", "imageurl":"https://files.stownpodcast.org/img/s-town-itunes.jpg", "author": "Serial & This American Life"},
