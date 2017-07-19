@@ -44,5 +44,17 @@
         <media:content url="https://raw.githubusercontent.com/dps/podcast-rss-list/master/shortcast/done.mp3" fileSize="659232" type="audio/mpeg" medium="audio" expression="full" duration="82"/>
         <itunes:author>dps</itunes:author>
     </item>
+    <item>
+        <title>Carrickfergus</title>
+        <description>Irish folk song.</description>
+        <pubDate>Wed, 19 July 2017 00:00:00 +0000</pubDate>
+        <itunes:duration>158</itunes:duration>
+	<itunes:image href="https://raw.githubusercontent.com/dps/podcast-rss-list/master/shortcast/carrickfergus.jpg"/>
+        <enclosure url="https://raw.githubusercontent.com/dps/podcast-rss-list/master/shortcast/Carrickfergus.m4a" length="1284246" type="audio/mpeg"/>
+        <link>https://raw.githubusercontent.com/dps/podcast-rss-list/master/shortcast/</link>
+        <itunes:explicit>clean</itunes:explicit>
+        <media:content url="https://raw.githubusercontent.com/dps/podcast-rss-list/master/shortcast/Carrickfergus.m4a" fileSize="1284246" type="audio/mpeg" medium="audio" expression="full" duration="158"/>
+        <itunes:author>Patrick Lynch</itunes:author>
+    </item>
 </channel>
 </rss>
