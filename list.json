@@ -1,7 +1,7 @@
 
 {
    "feeds" : [
-        {"name":"Shortcast", "rssfeed":"https://raw.githubusercontent.com/dps/podcast-rss-list/master/shortcast/shortcast.rss", "imageurl": "https://raw.githubusercontent.com/dps/podcast-rss-list/master/shortcast/cover.jpg", "author":"dps"},
+        {"name":"Kermode and Mayo's Film Review", "rssfeed":"http://podcasts.files.bbci.co.uk/b00lvdrj.rss", "imageurl":"http://ichef.bbci.co.uk/images/ic/3000x3000/p03fhfgr.jpg", "author":"BBC"},
         {"name":"Desert Island Discs", "rssfeed": "https://podcasts.files.bbci.co.uk/b006qnmr.rss", "imageurl":"http://ichef.bbci.co.uk/images/ic/3000x3000/p02sfqxv.jpg", "author": "BBC"},
         {"name":"Friday Night Comedy", "rssfeed":"http://podcasts.files.bbci.co.uk/p02pc9pj.rss", "imageurl":"http://ichef.bbci.co.uk/images/ic/3000x3000/p03fy1mh.jpg", "author":"BBC"},
         {"name":"Revisionist History", "rssfeed":"http://feeds.feedburner.com/RevisionistHistory", "imageurl":"http://static.megaphone.fm/podcasts/1427a2f4-2674-11e6-a3d7-cf7ee2a2c03c/image/uploads_2F1482446939047-8xkz61rh3k6t5hke-1d3a74b59a8aa1c724e95f8e00fae249_2FRevisionistHistory_1400x1400.jpg", "author": "Malcolm Gladwell / Panoply"},
@@ -27,7 +27,8 @@
         {"name":"Freakonomics Radio", "rssfeed":"http://feeds.feedburner.com/freakonomicsradio", "imageurl":"https://media2.wnyc.org/i/1400/1400/l/80/1/Freakonomics_WNYCStudios_1400_rsAKwzl.png", "author": "Stephen J. Dubner and WNYC Studios"},
         {"name":"How I Built This", "rssfeed":"https://www.npr.org/rss/podcast.php?id=510313", "imageurl":"https://media.npr.org/assets/img/2016/08/31/hibt_podcast_tile_sq-8d9498b292dc7a759bf4b7fc776dfe0e4c09da68.png?s=200", "author": "NPR"},
         {"name":"Fresh Air", "rssfeed":"https://www.npr.org/rss/podcast.php?id=381444908", "imageurl":"https://media.npr.org/images/podcasts/primary/icon_381444908-6388a4123207c734918f15c97de6d49ae634f820.jpg?s=200", "author": "NPR"},
-        {"name":"Hidden Brain", "rssfeed":"https://www.npr.org/rss/podcast.php?id=510308", "imageurl":"https://media.npr.org/assets/img/2017/01/12/hiddenbrain_sq-c52ddc28021ba306c99f2a94f06e0f649b0b62cd.jpg?s=200", "author": "NPR"}
+        {"name":"Hidden Brain", "rssfeed":"https://www.npr.org/rss/podcast.php?id=510308", "imageurl":"https://media.npr.org/assets/img/2017/01/12/hiddenbrain_sq-c52ddc28021ba306c99f2a94f06e0f649b0b62cd.jpg?s=200", "author": "NPR"},
+        {"name":"Shortcast", "rssfeed":"https://raw.githubusercontent.com/dps/podcast-rss-list/master/shortcast/shortcast.rss", "imageurl": "https://raw.githubusercontent.com/dps/podcast-rss-list/master/shortcast/cover.jpg", "author":"dps"}
    ]
 }
 
